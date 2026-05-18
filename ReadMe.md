@@ -58,12 +58,12 @@ This project was built to practice and showcase full-stack development skills, p
 ## Team contributions
 
 # Ivon Martinez Genis:
-My main contributions to this project included:
-- building Flask routes and backend logic
-- implementing user authentication and session-based login flows
-- working with MySQL data models and database queries
-- creating and styling user-facing pages
-- testing routes and app functionality during team development
+As a key developer in this 2-week Agile sprint, I focused on the core logic and security of the application:
+*   **Security & Auth:** Developed a secure authentication system using Flask sessions and hashed passwords.
+*   **Backend & Data:** Wrote custom SQL queries for data management and implemented error handling using try/finally blocks.
+*   **Authorization:** Built protected routes and session-based access control for member-only pages.
+*   **UX/UI:** Styled responsive layouts using Bootstrap and implemented Flash messaging for user feedback.
+*   **Documentation & DevOps:** Maintained the team’s technical documentation and managed Git version control/merge resolutions.
 
 ## 🛠️ Installation & Local Setup
 
