@@ -1,6 +1,7 @@
 # 🏋️‍♀️ R.I.S.E. Fitness
 
-This is a Flask web application that provides a personalized dashboard for users to track meals, workouts, progress, and read motivational content.
+R.I.S.E. Fitness is a full-stack Flask web application that helps users track meals, workouts, and progress through a personalized dashboard.  
+It was built as part of my full-stack training to practice authentication, database integration, REST-style routing, and dynamic UI rendering with Flask and MySQL.
 
 ## 💡 What This Project Does
 
@@ -53,3 +54,35 @@ This project was built to practice and showcase full-stack development skills, p
 - MySQL
 - HTML/CSS (Bootstrap)
 - JavaScript
+
+## Team contributions
+
+# Ivon Martinez Genis:
+My main contributions to this project included:
+- building Flask routes and backend logic
+- implementing user authentication and session-based login flows
+- working with MySQL data models and database queries
+- creating and styling user-facing pages
+- testing routes and app functionality during team development
+
+## 🛠️ Installation & Local Setup
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+   git clone https://github.com/Ivon-Martinez/RISE-Fitness.git
+   cd RISE-Fitness
+
+2. Create and activate a virtual environment:
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+
+3. Install dependencies:
+pip install -r requirements.txt
+
+4. Database Setup:
+Ensure you have MySQL installed and running.
+Create a database for the project and update the configuration in the app.
+
+5. Run the application:
+python app.py
